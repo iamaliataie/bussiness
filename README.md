@@ -1,2 +1,1 @@
-# bussiness
-https://www.iamaliataie.github.io/bussiness
+https://iamaliataie.github.io/bussiness
